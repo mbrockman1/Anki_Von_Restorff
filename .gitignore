@@ -172,3 +172,24 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# MacOS
+.DS_Store
+
+# Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS icon file
+Icon?
